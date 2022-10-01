@@ -1,2 +1,2 @@
 # taskInpythonLanguage
-Test Automation School by Testify task in Python
+Test Automation School in Python Programming Language by Testify School
