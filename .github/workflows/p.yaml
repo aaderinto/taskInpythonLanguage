@@ -15,3 +15,11 @@ jobs:
      - run: python task7.py
      - run: python task8.py
      - run: python LoopFunctions.py
+     - run: python task9.py
+     - run: python task10.py
+     - run: python task11.py
+     - run: python task12.py
+     - run: python task13.py
+     - run: python task14.py
+     - run: python task15.py
+     - run: python task16.py
