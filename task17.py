@@ -8,5 +8,3 @@ class Human:
 
 body = Human()
 print(body.gender, body.parts)
-for i in body.parts:
-    print(i.Head)

@@ -23,3 +23,12 @@ jobs:
      - run: python task14.py
      - run: python task15.py
      - run: python task16.py
+     - run: python task17.py
+     - run: python task18.py
+     - run: python task19.py
+     - run: python task20.py
+     - run: python task21.py
+     - run: python task22.py
+     - run: python task23.py
+     - run: python task24.py
+     - run: python task25.py
