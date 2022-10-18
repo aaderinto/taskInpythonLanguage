@@ -17,5 +17,5 @@ car_parts.pop("gear") #to remove a key from a dictionary
 print(car_parts)
 car_parts.update({"gear": "4wheelDrive", "color": "red"})
 print(car_parts)
-print(car_parts.popitem()) #to print out the last key in the dictionary
+print(car_parts.popitem()) #to print out the last key in the dictionary, the original dictionary would not contain the key removed.
 print(car_parts)

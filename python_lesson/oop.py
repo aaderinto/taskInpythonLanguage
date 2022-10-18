@@ -9,6 +9,6 @@ class Animal:
 
 #Object: This is an instance of a class
 
-output = Animal() #Creating an instance of a class
+output = Animal() #Creating an instance of a class, we can have many instances of a class
 
 print(output.name, output.group, output.get_name_group())
