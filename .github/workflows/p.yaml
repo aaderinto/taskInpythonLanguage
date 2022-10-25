@@ -11,27 +11,27 @@ jobs:
           echo "The job was automatically triggered by a ${{ github.event_name }} event"
           python task1.py
           python task2.py
-       run: python task3.py
-       run: python task4.py
-       run: python task5.py
-       run: python task6.py
-       run: python task7.py
-       run: python task8.py
-       run: python LoopFunctions.py
-       run: python task9.py
-       run: python task10.py
-       run: python task11.py
-       run: python task12.py
-       run: python task13.py || true
-       run: python task14.py
-       run: python task15.py
-       run: python task16.py
-       run: python task17.py
-       run: python task18.py
-       run: python task19.py
-       run: python task20.py
-       run: python task21.py
-       run: python task22.py
-       run: python task23.py
-       run: python task24.py
-       run: python task25.py
+          python task3.py
+          python task4.py
+          python task5.py
+          python task6.py
+          python task7.py
+          python task8.py
+          python LoopFunctions.py
+          python task9.py
+          python task10.py
+          python task11.py
+          python task12.py
+          python task13.py || true
+          python task14.py
+          python task15.py
+          python task16.py
+          python task17.py
+          python task18.py
+          python task19.py
+          python task20.py
+          python task21.py
+          python task22.py
+          python task23.py
+          python task24.py
+          python task25.py
