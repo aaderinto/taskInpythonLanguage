@@ -33,5 +33,5 @@ jobs:
           python task21.py || true
           python task22.py
           python task23.py
-          python task24.py
-          python task25.py
+          python task24.py || true
+          python task25.py || true
