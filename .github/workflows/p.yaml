@@ -2,11 +2,11 @@ name: Git Actions Demo
 on: [push]
 jobs:
  Explore-GitHub-Actions:
-   runs-on: windows-latest
+   runs-on: macos-latest
    steps:
      - uses: actions/checkout@v2
      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
-     - run: cd /Users/adetomiwaaderinto/testify/taskInpythonLanguage/python_tasks
+     - run: cd "/Users/adetomiwaaderinto/testify/taskInpythonLanguage/python_tasks"
      - run: python task1.py
      - run: python task2.py
      - run: python task3.py
