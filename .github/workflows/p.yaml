@@ -7,9 +7,10 @@ jobs:
      - uses: actions/checkout@v2
      - name: python tasks
        working-directory: ./python_tasks
-       run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
-       run: python task1.py
-       run: python task2.py
+       run: |
+          echo "The job was automatically triggered by a ${{ github.event_name }} event"
+          python task1.py
+          python task2.py
        run: python task3.py
        run: python task4.py
        run: python task5.py
