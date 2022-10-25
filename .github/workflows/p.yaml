@@ -19,7 +19,7 @@ jobs:
           python task8.py
           python LoopFunctions.py
           python task9.py
-          python task10.py
+          python task10.py || true
           python task11.py
           python task12.py
           python task13.py || true
