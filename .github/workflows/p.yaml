@@ -5,31 +5,32 @@ jobs:
    runs-on: macos-latest
    steps:
      - uses: actions/checkout@v2
-     - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
-     - run: cd python_tasks
-     - run: python task1.py
-     - run: python task2.py
-     - run: python task3.py
-     - run: python task4.py
-     - run: python task5.py
-     - run: python task6.py
-     - run: python task7.py
-     - run: python task8.py
-     - run: python LoopFunctions.py
-     - run: python task9.py
-     - run: python task10.py
-     - run: python task11.py
-     - run: python task12.py
-     - run: python task13.py || true
-     - run: python task14.py
-     - run: python task15.py
-     - run: python task16.py
-     - run: python task17.py
-     - run: python task18.py
-     - run: python task19.py
-     - run: python task20.py
-     - run: python task21.py
-     - run: python task22.py
-     - run: python task23.py
-     - run: python task24.py
-     - run: python task25.py
+     - name: python tasks
+       working-directory: ./python_tasks
+       run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
+       run: python task1.py
+       run: python task2.py
+       run: python task3.py
+       run: python task4.py
+       run: python task5.py
+       run: python task6.py
+       run: python task7.py
+       run: python task8.py
+       run: python LoopFunctions.py
+       run: python task9.py
+       run: python task10.py
+       run: python task11.py
+       run: python task12.py
+       run: python task13.py || true
+       run: python task14.py
+       run: python task15.py
+       run: python task16.py
+       run: python task17.py
+       run: python task18.py
+       run: python task19.py
+       run: python task20.py
+       run: python task21.py
+       run: python task22.py
+       run: python task23.py
+       run: python task24.py
+       run: python task25.py
