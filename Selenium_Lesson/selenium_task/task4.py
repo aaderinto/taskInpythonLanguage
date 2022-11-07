@@ -24,8 +24,7 @@ def enter_value_to_text_field(element, *value):
 def clickable_method(element):
     web_driver_wait = WebDriverWait(element, 20) #waits 20sec for the element
     web_driver_wait.until(EC.element_to_be_clickable((By.ID,'id=u_0_9_NS'))) #checks if the element is clickable for 20secs
-    submit_button = element.find_element(By.ID,'u_0_9_NS')
-    submit_button.click()
+    element.find_element(By.ID,'u_0_9_NS').click()
     time.sleep(10)
 
 
