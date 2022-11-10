@@ -1,0 +1,460 @@
+1668089654421	geckodriver	INFO	Listening on 127.0.0.1:60126
+1668089654782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60127" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilebBgxh5"
+1668089694458	Marionette	INFO	Marionette enabled
+1668089695880	Marionette	INFO	Listening on port 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+Read port: 60225
+WebDriver BiDi listening on ws://127.0.0.1:60127
+1668089708056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+2022-11-10 14:15:31.529 plugin-container[33589:1169650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:15:31.720 plugin-container[33589:1169650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:15:34.974 plugin-container[33589:1169650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:15:34.974 plugin-container[33589:1169650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:15:35.624 plugin-container[33589:1170056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:15:35.624 plugin-container[33589:1170056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilebBgxh5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60127/devtools/browser/de36345e-3d66-4d4b-acc8-6bcfc94b87b0
+1668089821254	Marionette	INFO	Stopped listening on port 60225
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1668090490259	geckodriver	INFO	Listening on 127.0.0.1:63110
+1668090490358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63111" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilewf1BoU"
+2022-11-10 14:28:12.945 plugin-container[33847:1175353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:28:12.949 plugin-container[33847:1175353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:28:12.986 plugin-container[33847:1175353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:28:12.986 plugin-container[33847:1175353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:28:12.987 plugin-container[33847:1175357] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:28:12.987 plugin-container[33847:1175357] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668090493354	Marionette	INFO	Marionette enabled
+1668090493728	Marionette	INFO	Listening on port 63136
+Read port: 63136
+Read port: 63136
+WebDriver BiDi listening on ws://127.0.0.1:63111
+1668090495235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilewf1BoU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63111/devtools/browser/df3af724-2aa4-4de0-ace0-398e34f48cb0
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/config", needed by: idcta-v2/analytics, idcta-v2/id-config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/config", needed by: idcta-v2/analytics, idcta-v2/id-config
+http://requirejs.org/docs/errors.html#scripterror
+1668090538659	Marionette	INFO	Stopped listening on port 63136
+1668091545912	geckodriver	INFO	Listening on 127.0.0.1:53441
+1668091546260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53442" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofiletZK3uP"
+2022-11-10 14:45:48.423 plugin-container[34210:1184069] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:45:48.424 plugin-container[34210:1184069] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:45:48.432 plugin-container[34210:1184069] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:45:48.432 plugin-container[34210:1184069] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:45:48.433 plugin-container[34210:1184064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:45:48.433 plugin-container[34210:1184064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668091548528	Marionette	INFO	Marionette enabled
+1668091548586	Marionette	INFO	Listening on port 53465
+Read port: 53465
+WebDriver BiDi listening on ws://127.0.0.1:53442
+Read port: 53465
+1668091550147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofiletZK3uP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53442/devtools/browser/8d5a1836-948e-4b06-961f-2007c51ac1ae
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668091927935	geckodriver	INFO	Listening on 127.0.0.1:55649
+1668091928390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55650" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilevm7Dei"
+1668091936251	Marionette	INFO	Marionette enabled
+1668091936507	Marionette	INFO	Listening on port 55706
+Read port: 55706
+Read port: 55706
+Read port: 55706
+WebDriver BiDi listening on ws://127.0.0.1:55650
+1668091940423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-11-10 14:52:25.646 plugin-container[34414:1188408] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:52:25.647 plugin-container[34414:1188408] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:52:25.989 plugin-container[34414:1188408] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:52:25.989 plugin-container[34414:1188408] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:52:25.994 plugin-container[34414:1188609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:52:25.994 plugin-container[34414:1188609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilevm7Dei/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55650/devtools/browser/857281ea-f223-4b70-81bb-08b27e93c55e
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668092248060	geckodriver	INFO	Listening on 127.0.0.1:57513
+1668092248575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57514" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileGm1Euu"
+2022-11-10 14:57:30.269 plugin-container[34627:1192713] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:57:30.270 plugin-container[34627:1192713] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:57:30.287 plugin-container[34627:1192713] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:57:30.287 plugin-container[34627:1192713] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 14:57:30.288 plugin-container[34627:1192716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 14:57:30.288 plugin-container[34627:1192716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668092250842	Marionette	INFO	Marionette enabled
+1668092250906	Marionette	INFO	Listening on port 57545
+Read port: 57545
+WebDriver BiDi listening on ws://127.0.0.1:57514
+Read port: 57545
+1668092252496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileGm1Euu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57514/devtools/browser/4de4d970-68cc-489f-85f8-a3129e6de9a8
+1668092260859	Marionette	INFO	Stopped listening on port 57545
+1668092437388	geckodriver	INFO	Listening on 127.0.0.1:58674
+1668092437454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58675" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileGvj8jT"
+2022-11-10 15:00:41.563 plugin-container[34707:1194699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:00:41.571 plugin-container[34707:1194699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:00:41.712 plugin-container[34707:1194699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:00:41.712 plugin-container[34707:1194699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:00:41.830 plugin-container[34707:1194726] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:00:41.830 plugin-container[34707:1194726] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668092442104	Marionette	INFO	Marionette enabled
+1668092442365	Marionette	INFO	Listening on port 58710
+Read port: 58710
+Read port: 58710
+WebDriver BiDi listening on ws://127.0.0.1:58675
+1668092444100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileGvj8jT/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:58675/devtools/browser/02163a40-4a5b-4cf5-adb7-0b4d3f826146
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668092481309	Marionette	INFO	Stopped listening on port 58710
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668092637948	geckodriver	INFO	Listening on 127.0.0.1:60406
+1668092638466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60407" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileIhhJN5"
+1668092641822	Marionette	INFO	Marionette enabled
+1668092641910	Marionette	INFO	Listening on port 60438
+Read port: 60438
+Read port: 60438
+WebDriver BiDi listening on ws://127.0.0.1:60407
+1668092644238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-11-10 15:04:04.705 plugin-container[34784:1196496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:04:04.705 plugin-container[34784:1196496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:04:04.769 plugin-container[34784:1196496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:04:04.770 plugin-container[34784:1196496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:04:04.801 plugin-container[34784:1196500] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:04:04.801 plugin-container[34784:1196500] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileIhhJN5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60407/devtools/browser/5ae71c5c-1655-46a6-ac06-4d5abbf3f43c
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "jquery-1.9", needed by: lib/core, lib/module/manager
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668092781933	geckodriver	INFO	Listening on 127.0.0.1:61387
+1668092781959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61388" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileun338Z"
+1668092787749	Marionette	INFO	Marionette enabled
+1668092787792	Marionette	INFO	Listening on port 61429
+Read port: 61429
+2022-11-10 15:06:28.701 plugin-container[34868:1197606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:06:28.702 plugin-container[34868:1197606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:06:28.797 plugin-container[34868:1197606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:06:28.798 plugin-container[34868:1197606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:06:28.798 plugin-container[34868:1197607] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:06:28.798 plugin-container[34868:1197607] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 61429
+WebDriver BiDi listening on ws://127.0.0.1:61388
+1668092789506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileun338Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61388/devtools/browser/b138f001-007f-4e1f-b21b-3c70c603b501
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "jquery-1.9", needed by: lib/core, lib/module/manager
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668092818246	Marionette	INFO	Stopped listening on port 61429
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668092924889	geckodriver	INFO	Listening on 127.0.0.1:62783
+1668092925132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62784" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileTw9wo7"
+1668092927998	Marionette	INFO	Marionette enabled
+1668092928217	Marionette	INFO	Listening on port 62811
+Read port: 62811
+2022-11-10 15:08:48.795 plugin-container[34937:1198765] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:08:48.803 plugin-container[34937:1198765] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:08:48.840 plugin-container[34937:1198765] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:08:48.840 plugin-container[34937:1198765] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:08:48.840 plugin-container[34937:1198769] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:08:48.840 plugin-container[34937:1198769] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62811
+WebDriver BiDi listening on ws://127.0.0.1:62784
+1668092929879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileTw9wo7/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:62784/devtools/browser/426a179b-e458-43f2-b0f6-872667ee61db
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668092969977	Marionette	INFO	Stopped listening on port 62811
+1668093082988	geckodriver	INFO	Listening on 127.0.0.1:63857
+1668093083456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63858" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilebepe2p"
+1668093088601	Marionette	INFO	Marionette enabled
+1668093088751	Marionette	INFO	Listening on port 63898
+Read port: 63898
+Read port: 63898
+2022-11-10 15:11:30.578 plugin-container[35014:1200490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:11:30.578 plugin-container[35014:1200490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63858
+Read port: 63898
+2022-11-10 15:11:31.422 plugin-container[35014:1200490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:11:31.422 plugin-container[35014:1200490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:11:31.423 plugin-container[35014:1200541] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:11:31.423 plugin-container[35014:1200541] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668093092123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilebepe2p/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:63858/devtools/browser/e14ae911-ded4-435c-afda-35abaf317f5c
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668093152765	Marionette	INFO	Stopped listening on port 63898
+1668093258986	geckodriver	INFO	Listening on 127.0.0.1:49264
+1668093259197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49265" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilejISG3w"
+2022-11-10 15:14:21.920 plugin-container[35095:1202197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:14:21.920 plugin-container[35095:1202197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:14:21.930 plugin-container[35095:1202197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:14:21.930 plugin-container[35095:1202197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:14:21.930 plugin-container[35095:1202204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:14:21.930 plugin-container[35095:1202204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668093262135	Marionette	INFO	Marionette enabled
+1668093262284	Marionette	INFO	Listening on port 49284
+Read port: 49284
+Read port: 49284
+WebDriver BiDi listening on ws://127.0.0.1:49265
+1668093263934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilejISG3w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49265/devtools/browser/a1c1b4dd-1113-4c86-842d-a3ecdc2aefed
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668093500624	Marionette	INFO	Stopped listening on port 49284
+1668093505857	Marionette	INFO	Stopped listening on port 60438
+1668093517691	Marionette	INFO	Stopped listening on port 55706
+1668093522747	Marionette	INFO	Stopped listening on port 53465
+1668094251129	geckodriver	INFO	Listening on 127.0.0.1:55067
+1668094251496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55068" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilesXrWv1"
+2022-11-10 15:30:54.026 plugin-container[35440:1210842] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:30:54.027 plugin-container[35440:1210842] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:30:54.065 plugin-container[35440:1210842] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:30:54.065 plugin-container[35440:1210842] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:30:54.065 plugin-container[35440:1210837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:30:54.065 plugin-container[35440:1210837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668094254129	Marionette	INFO	Marionette enabled
+1668094254268	Marionette	INFO	Listening on port 55097
+Read port: 55097
+WebDriver BiDi listening on ws://127.0.0.1:55068
+Read port: 55097
+1668094255921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilesXrWv1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55068/devtools/browser/61888277-8c3c-47bc-ae04-c513ab5c934e
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1668094273278	Marionette	INFO	Stopped listening on port 55097
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668094663794	geckodriver	INFO	Listening on 127.0.0.1:57744
+1668094664286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57745" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileX1WUTm"
+2022-11-10 15:37:46.066 plugin-container[35572:1214319] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:37:46.066 plugin-container[35572:1214319] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668094666234	Marionette	INFO	Marionette enabled
+2022-11-10 15:37:46.316 plugin-container[35572:1214319] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:37:46.316 plugin-container[35572:1214319] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:37:46.321 plugin-container[35572:1214317] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:37:46.321 plugin-container[35572:1214317] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668094666331	Marionette	INFO	Listening on port 57766
+Read port: 57766
+WebDriver BiDi listening on ws://127.0.0.1:57745
+Read port: 57766
+1668094668150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileX1WUTm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57745/devtools/browser/64aeaf3e-1311-41e5-8bef-c86e4010fe3f
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "jquery-1.9", needed by: lib/core, lib/module/manager
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668094704494	Marionette	INFO	Stopped listening on port 57766
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668094783775	geckodriver	INFO	Listening on 127.0.0.1:59268
+1668094784167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59269" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilegLTZHQ"
+2022-11-10 15:39:46.160 plugin-container[35640:1215513] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:39:46.160 plugin-container[35640:1215513] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:39:46.166 plugin-container[35640:1215513] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:39:46.166 plugin-container[35640:1215513] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:39:46.167 plugin-container[35640:1215518] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:39:46.167 plugin-container[35640:1215518] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668094786294	Marionette	INFO	Marionette enabled
+1668094786361	Marionette	INFO	Listening on port 59294
+Read port: 59294
+WebDriver BiDi listening on ws://127.0.0.1:59269
+1668094787597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilegLTZHQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59269/devtools/browser/d188980c-5da9-4f99-8480-205e2e5cee2b
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668094808739	Marionette	INFO	Stopped listening on port 59294
+1668094863049	geckodriver	INFO	Listening on 127.0.0.1:60207
+1668094863117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60208" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileIcbfZ1"
+1668094866109	Marionette	INFO	Marionette enabled
+1668094866228	Marionette	INFO	Listening on port 60237
+Read port: 60237
+2022-11-10 15:41:06.956 plugin-container[35705:1216426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:41:06.957 plugin-container[35705:1216426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:41:07.049 plugin-container[35705:1216426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:41:07.049 plugin-container[35705:1216426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 15:41:07.052 plugin-container[35705:1216456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 15:41:07.052 plugin-container[35705:1216456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60237
+WebDriver BiDi listening on ws://127.0.0.1:60208
+1668094867745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileIcbfZ1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60208/devtools/browser/da7815f6-050d-478a-86c5-48fc7052d698
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668094892796	Marionette	INFO	Stopped listening on port 60237
+1668096123778	geckodriver	INFO	Listening on 127.0.0.1:51349
+1668096123910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51350" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileHdEUCq"
+1668096125961	Marionette	INFO	Marionette enabled
+2022-11-10 16:02:05.998 plugin-container[35900:1223756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:02:06.000 plugin-container[35900:1223756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668096126032	Marionette	INFO	Listening on port 51367
+Read port: 51367
+2022-11-10 16:02:06.146 plugin-container[35900:1223756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:02:06.146 plugin-container[35900:1223756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:02:06.151 plugin-container[35900:1223763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:02:06.151 plugin-container[35900:1223763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51350
+Read port: 51367
+1668096127869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileHdEUCq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51350/devtools/browser/3460cd19-b618-4f6a-ad6c-ffe94ceb0933
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668097697155	geckodriver	INFO	Listening on 127.0.0.1:60351
+1668097697225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60352" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilegJV2Fe"
+1668097701625	Marionette	INFO	Marionette enabled
+1668097701735	Marionette	INFO	Listening on port 60393
+Read port: 60393
+2022-11-10 16:28:21.856 plugin-container[36283:1234697] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:28:21.859 plugin-container[36283:1234697] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:28:22.106 plugin-container[36283:1234697] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:28:22.106 plugin-container[36283:1234697] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:28:22.205 plugin-container[36283:1234702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:28:22.206 plugin-container[36283:1234702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60393
+WebDriver BiDi listening on ws://127.0.0.1:60352
+1668097703419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilegJV2Fe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60352/devtools/browser/2835465a-e601-4d62-95c0-01acfc5d8a03
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1668097804169	Marionette	INFO	Stopped listening on port 60393
+1668097818733	geckodriver	INFO	Listening on 127.0.0.1:61364
+1668097819158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61365" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileOyxCYL"
+1668097822626	Marionette	INFO	Marionette enabled
+1668097822747	Marionette	INFO	Listening on port 61403
+Read port: 61403
+Read port: 61403
+2022-11-10 16:30:24.143 plugin-container[36369:1236416] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:30:24.145 plugin-container[36369:1236416] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61365
+2022-11-10 16:30:24.309 plugin-container[36369:1236416] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:30:24.309 plugin-container[36369:1236416] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:30:24.356 plugin-container[36369:1236420] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:30:24.356 plugin-container[36369:1236420] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668097824995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileOyxCYL/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:61365/devtools/browser/add126d5-2c6e-419a-bf44-96d9ac38cb44
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+1668098311325	geckodriver	INFO	Listening on 127.0.0.1:64215
+1668098311408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64216" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilej1xxgl"
+1668098313257	Marionette	INFO	Marionette enabled
+1668098313323	Marionette	INFO	Listening on port 64237
+Read port: 64237
+2022-11-10 16:38:33.968 plugin-container[36594:1242659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:38:33.970 plugin-container[36594:1242659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:38:34.013 plugin-container[36594:1242659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:38:34.013 plugin-container[36594:1242659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-10 16:38:34.016 plugin-container[36594:1242666] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-10 16:38:34.016 plugin-container[36594:1242666] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64237
+WebDriver BiDi listening on ws://127.0.0.1:64216
+1668098314874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofilej1xxgl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64216/devtools/browser/6d267375-674e-43b6-bd66-dadbec9a2307
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
