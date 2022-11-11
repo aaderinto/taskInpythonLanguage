@@ -5547,3 +5547,59 @@ http://requirejs.org/docs/errors.html#scripterror
 JavaScript error: https://static.files.bbci.co.uk/orbit/72bb1faee77ccdef4b06defdfa53842d/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
 http://requirejs.org/docs/errors.html#scripterror
 1668119889402	Marionette	INFO	Stopped listening on port 49900
+1668179753102	geckodriver	INFO	Listening on 127.0.0.1:61450
+1668179753466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61451" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofile2dP6OS"
+1668179754504	Marionette	INFO	Marionette enabled
+1668179754565	Marionette	INFO	Listening on port 61464
+2022-11-11 15:15:54.580 plugin-container[11806:305042] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:15:54.582 plugin-container[11806:305042] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 61464
+2022-11-11 15:15:54.638 plugin-container[11806:305042] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:15:54.638 plugin-container[11806:305042] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-11 15:15:54.639 plugin-container[11806:305066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:15:54.639 plugin-container[11806:305066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61451
+1668179754858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofile2dP6OS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61451/devtools/browser/99558a36-0eeb-42aa-9316-9d8d14b764d2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1668179846536	Marionette	INFO	Stopped listening on port 61464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668179851766	geckodriver	INFO	Listening on 127.0.0.1:62027
+1668179852120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62028" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileBpg3Sx"
+2022-11-11 15:17:32.979 plugin-container[11863:306209] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:32.979 plugin-container[11863:306209] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668179852982	Marionette	INFO	Marionette enabled
+2022-11-11 15:17:32.984 plugin-container[11863:306209] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:32.984 plugin-container[11863:306209] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-11 15:17:32.984 plugin-container[11863:306211] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:32.984 plugin-container[11863:306211] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668179853227	Marionette	INFO	Listening on port 62045
+Read port: 62045
+WebDriver BiDi listening on ws://127.0.0.1:62028
+1668179853378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileBpg3Sx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62028/devtools/browser/69c348a1-c8de-4ba8-a2bb-4decb587c863
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668179867262	Marionette	INFO	Stopped listening on port 62045
+1668179878623	geckodriver	INFO	Listening on 127.0.0.1:62225
+1668179879027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62226" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileidB0Y7"
+2022-11-11 15:17:59.647 plugin-container[11902:306903] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:59.647 plugin-container[11902:306903] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-11 15:17:59.653 plugin-container[11902:306903] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:59.653 plugin-container[11902:306903] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-11 15:17:59.653 plugin-container[11902:306910] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-11 15:17:59.653 plugin-container[11902:306910] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668179879810	Marionette	INFO	Marionette enabled
+1668179879910	Marionette	INFO	Listening on port 62239
+Read port: 62239
+WebDriver BiDi listening on ws://127.0.0.1:62226
+1668179880303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l_/zzs_chzs31gd8j_23wtldsgc0000gn/T/rust_mozprofileidB0Y7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62226/devtools/browser/ca9848e5-9811-48e7-bd9e-efaf54fd10c7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668179893927	Marionette	INFO	Stopped listening on port 62239

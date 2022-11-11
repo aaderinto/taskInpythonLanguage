@@ -21,6 +21,7 @@ def enter_value_to_google_text_field(element, *value):
     element.get("https://www.google.com/")
     #element.delete_all_cookies()
     element.maximize_window()
+    element.find_element(By.CSS_SELECTOR, '#L2AGLb > div:nth-child(1)').click()
     #web_driver_wait = WebDriverWait(element, 40) 
     #web_driver_wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[4]/center/input[1]')))
     #print("Class", element.find_element(By.NAME, 'q').get_attribute('class'))

@@ -15,6 +15,7 @@ def currentTemperature(element):
     #element.delete_all_cookies()
     element.maximize_window()
     element.implicitly_wait(60)
+    element.find_element(By.CSS_SELECTOR, '#truste-consent-button').click()
     Temp = element.find_element(By.CSS_SELECTOR, '#WxuSavedLocations-header-9aea3e61-fbf8-4da4-9e07-f96abf18cdf1 > div > div > div > div.styles--cards--39bdo.styles--cardCarousel--Yl375 > div > div > div > a.styles--weatherData--24HO9.weather-data.Button--default--2gfm1 > span')
     print("The Current Temperature is ",Temp.text)
     Temp.click()

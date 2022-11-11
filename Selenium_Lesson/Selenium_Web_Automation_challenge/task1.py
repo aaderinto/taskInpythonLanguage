@@ -35,9 +35,9 @@ def clickable_method(element):
 def main():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get("https://www.facebook.com/")
-
     enter_value_to_text_field(driver.find_element(By.XPATH, '//*[@id="email"]'), 'longeurpadi@yahoo.com')
-    enter_value_to_text_field(driver.find_element(By.ID, 'pass'), 'Ikeade_123@')
+    driver.implicitly_wait(30)
+    enter_value_to_text_field(driver.find_element(By.ID, 'pass'), 'IKEade_123@')
 
     
     clickable_method(driver)
