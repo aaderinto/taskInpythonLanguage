@@ -9,8 +9,8 @@ cont_str('inte', 'gration')
 #2 Create a function that calculates the power of a number. 
 # Then write a unit test to check the correctness of the function. 
 
-def powerN():
-    pass
+def powerN(x, y):
+    return x ** y #x is the base and y is the power
 
 
 

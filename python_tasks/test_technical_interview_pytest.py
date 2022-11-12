@@ -6,3 +6,6 @@ def test_upperStringConversion_output():
 def test_sentenceCase_output():
     assert technical_interview.sentenceCase('I AM A MAN') == ('I am a man', 'i am a man')
 
+def test_powerN_output():
+    assert technical_interview.powerN(4,3) == 64
+
