@@ -1,4 +1,7 @@
-""" 4. Navigate to https://www.bbc.com/  and  print  out  thetop 10 latest news from the home page.
+""" 5. Using any browser navigate to any Youtube video of yourchoice, 
+allow your script to wait for the comments to load thenget the first two comments, 
+and print them in the terminal.
+
 """
 
 
