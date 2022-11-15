@@ -6,22 +6,36 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.by import By 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 
  
 def currentTemperature(element):
+
     element.get("https://weather.com/")
-    #element.delete_all_cookies()
+
     element.maximize_window()
-    element.implicitly_wait(60)
-    element.find_element(By.CSS_SELECTOR, '#truste-consent-button').click()
-    Temp = element.find_element(By.CSS_SELECTOR, '#WxuSavedLocations-header-9aea3e61-fbf8-4da4-9e07-f96abf18cdf1 > div > div > div > div.styles--cards--39bdo.styles--cardCarousel--Yl375 > div > div > div > a.styles--weatherData--24HO9.weather-data.Button--default--2gfm1 > span')
-    print("The Current Temperature is ",Temp.text)
-    Temp.click()
-    time.sleep(20)
+
+    web_driver_wait = WebDriverWait(element, 60)
+    web_driver_wait.until(EC.visibility_of_element_located((By.ID, 'truste-consent-button')))
+
+    element.find_element(By.ID, 'truste-consent-button').click()
+
+    web_driver_wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "[class='styles--temperature--3YaGV']")))
+    tempHome = element.find_element(By.CSS_SELECTOR, "[class='styles--temperature--3YaGV']")
+
+    print("The Current Temperature is ",tempHome.text)
+
+    tempHome.click()
+    time.sleep(5)
+
+    web_driver_wait.until(EC.visibility_of_any_elements_located((By.TAG_NAME, 'li')))
 
     allTemp = element.find_elements(By.TAG_NAME, 'div')
+
     count = 0
     Days = ['Morning', 'Afternoon', 'Evening','OverNight']
     for i in range(len(allTemp)):
@@ -29,6 +43,7 @@ def currentTemperature(element):
             count +=1
             if (count <= 4):
                 print("The " +  Days[count-1] + " Temperature is " + allTemp[i].text)  
+
 
 def main():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))

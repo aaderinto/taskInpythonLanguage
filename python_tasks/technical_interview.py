@@ -9,8 +9,11 @@ cont_str('inte', 'gration')
 #2 Create a function that calculates the power of a number. 
 # Then write a unit test to check the correctness of the function. 
 
+print("********* Ans to Question 2 ************")
 def powerN(x, y):
     return x ** y #x is the base and y is the power
+
+print(pow(2,2))
 
 
 
@@ -28,20 +31,20 @@ class Animal:
 class Cat(Animal):
 
     def sound(self):
-        a_sound = "This sound"
-        return a_sound
+        a_sound = "mewwwww"
+        return a_sound 
     
 
 class Dog(Animal):
 
     def sound(self):
-        a_sound = "Dog sound"
+        a_sound = "barkkkk"
         return a_sound
 
 
 current_cat_sound = Cat()
 current_dog_sound = Dog()
-print("********* Ans to Question 2 ************")
+print("********* Ans to Question 3 ************")
 print(current_cat_sound.sound())
 print(current_dog_sound.sound())
 
@@ -55,6 +58,19 @@ def simpleIntrest(P, R, T):
 get_simpleInterest = simpleIntrest(10, 0.5, 4)
 print("********* Ans to Question 4 ************")
 print(get_simpleInterest)
+
+#5.  Write  a  Python  program  that  checks  if  a  string  is  apalindrome,  
+# Then  optionally  write  a  unit  test  to  checkyour program's correctness
+
+def checkIfStringIsPalindrome(strr):
+    if (strr == strr[::-1]):
+        return ("The string is a Palindrome")
+    else:
+        return ("The string is not a Palindrome")
+
+strr = 'MADAM'
+print("********* Ans to Question 5 ************")
+print(strr[::-1])
 
 
 #6.  Write  a  function  that  removes  repeated  charactersfrom a string. 

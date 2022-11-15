@@ -40,7 +40,6 @@ def main():
     action = ActionChains(driver)
     #scroll_to_element(action, driver.find_element(By.XPATH, '//*[@id="__next"]/main/section[3]'))
     scroll_by_offset(action, 100)
-    time.sleep(10)
     scroll_by_offset(action, -50)
     driver.close()
 
